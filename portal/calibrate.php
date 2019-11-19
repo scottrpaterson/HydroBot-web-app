@@ -9,11 +9,11 @@ echo "<div class='box'>";
 	echo "</div>";
 	echo "<div class='box-body'>";
 	
-echo "<table>";
-	echo "<tr><td> <a class='button' href='calibrate_ph.php'>pH Calibration</a></td></tr>";
-	echo "<tr><td> <a class='button' href='calibrate_ec.php'>EC Calibration</a></td></tr>";
-	echo "<tr><td> <a class='button' href='calibrate_temp.php'>Temperature Calibration</a></td></tr>";
-
+	echo "<table>";
+		echo "<tr><td> <a class='button' href='calibrate_ph.php'>pH Calibration</a></td></tr>";
+		echo "<tr><td> <a class='button' href='calibrate_ec.php'>EC Calibration</a></td></tr>";
+		echo "<tr><td> <a class='button' href='calibrate_temp.php'>Temperature Calibration</a></td></tr>";
+		echo "<tr><td> <a class='button' href='settings.php'>Back</a></td></tr>";
 	echo "</table>";
 
 	echo "</div>";

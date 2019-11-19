@@ -18,6 +18,7 @@ echo "<div class='box'>";
 		echo "<li><a href='units.php'>Change Units</a></li>";
 		echo "<br />";
 		echo "<li><a href='calibrate.php'>Calibrate Sensors</a></li>";
+		echo "<li><a href='calibrate_pumps.php'>Calibrate Pumps</a></li>";
 		echo "<li><a href='prime.php'>Prime Peristaltic Pumps</a></li>";
 		echo "<br />";
 		echo "<li><a href='account.php'>Account</a></li>";
